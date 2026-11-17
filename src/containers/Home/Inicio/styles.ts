@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import banner from "../../../assets/bannerLookBellaDesktop.png";
-import bannerMobile from "../../../assets/bannerLookBellaMobile.png";
+import banner from "../../../assets/bannerlookBellaDesktop.png";
+import bannerMobile from "../../../assets/bannerlookBellaMobile.png";
 
 
 export const Container = styled.div`
